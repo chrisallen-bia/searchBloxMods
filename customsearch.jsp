@@ -1,7 +1,7 @@
     <!-- SearchBlox Software, Inc. -->
-	<!-- CustomSearch Functionality HTML -->
-	<!-- CustomSearch START -->
-	<FORM name="search" action="servlet/SearchServlet" method="POST">
+    <!-- CustomSearch Functionality HTML -->
+    <!-- CustomSearch START -->
+    <FORM name="search" action="servlet/SearchServlet" method="POST">
 
             <!-- Encoding of the Search Page -->
             <input type="hidden" name="fe" value="euc-kr" />
@@ -34,7 +34,7 @@
                         <TABLE border="0">
                             <TR colspan="2">
                                 <TD>
-                                    <DIV style="color: #72A4D2; font-family: Verdana; font-weight: bold; font-size: 12px;">	CustomSearch
+                                    <DIV style="color: #72A4D2; font-family: Verdana; font-weight: bold; font-size: 12px;"> CustomSearch
                                     </DIV>
                                 </TD>
                             </TR>
@@ -50,5 +50,5 @@
                     </TD>
                 </TR>
             </TABLE>
-	</FORM>
-	<!-- CustomSearch END -->
+    </FORM>
+    <!-- CustomSearch END -->
